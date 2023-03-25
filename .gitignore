@@ -36,12 +36,14 @@
 *.ipch
 *.suo
 *.aps
+*.vs
 
 #Visual studio build
 *.iobj
 *.ipdb
 *.ilk
 *.pdb
+*.recipe
 
 # temp files
 *.tlog
